@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on [cryptoDash](https://cryptrodash.netlify.app)
 - 💻 Check out my [portfolio](https://denilsonlopez.com/)
 - 💬 Ask me about running and photography
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I competed at the NCAA DIII level for XC and Track and Field🏃🏽‍♂️
 <h3 align='center'>Contact Me🙋🏽‍♂️</h3>
 <hr>
