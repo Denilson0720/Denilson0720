@@ -2,9 +2,9 @@
 <hr>
 
 - 👋 Hi Im Denilson
-- 👨🏽‍💻 Im a Software Developer, who really enjoys Frontend 
+- 👨🏽‍💻 Im a Software Engineer
 - 📝 Take a peek at my [resume](https://drive.google.com/file/d/1bm1fcE_wwnD6kGXZsCwRuvALJqvSBdpf/view?usp=sharing)
-- 🔭 I’m currently working on [cryptoDash](https://cryptrodash.netlify.app)
+- 🔭 I’m currently working at [Trust & Will](https://trustandwill.com/)
 - 💻 Check out my [portfolio](https://denilsonlopez.com/)
 - 💬 Ask me about running and photography
 - ⚡ Fun fact: I competed at the NCAA DIII level for XC and Track and Field🏃🏽‍♂️
